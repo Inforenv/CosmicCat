@@ -116,10 +116,10 @@
         },
         "about": {
             "country": "Pais:",
-            "membersince": "Unido:",
+            "membersince": "Se Unio:",
             "viewedcounts": "Vistas:",
-            "viewedcount": "Visto:",
-            "sub": "Subscriber:",
+            "viewedcount": "Visitas:",
+            "sub": "Subscriptores:",
             "subs": "Subscriptores:"
         },
         "customtag": {
